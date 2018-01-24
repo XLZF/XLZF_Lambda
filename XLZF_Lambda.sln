@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLZF_Lambda", "XLZF_Lamda\XLZF_Lambda.csproj", "{0BF117FF-2083-4D3B-BE53-39B2BC55BC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF117FF-2083-4D3B-BE53-39B2BC55BC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF117FF-2083-4D3B-BE53-39B2BC55BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF117FF-2083-4D3B-BE53-39B2BC55BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF117FF-2083-4D3B-BE53-39B2BC55BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2943F215-8D03-4F4E-A1E4-5BC78BD01F2D}
+	EndGlobalSection
+EndGlobal
